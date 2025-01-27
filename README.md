@@ -30,5 +30,5 @@ An example of how to call each generative virtual screening step is located in `
 
 ### Additional Documentation
 
-You can try this blueprint and find its Model Card on [build.nvidia.com](https://build.nvidia.com/nvidia/generative-virtual-screening-for-drug-discovery)
+You can try this Blueprint and find its Blueprint Card on [build.nvidia.com](https://build.nvidia.com/nvidia/generative-virtual-screening-for-drug-discovery)
 

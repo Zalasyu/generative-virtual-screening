@@ -30,5 +30,5 @@ An example of how to call each generative virtual screening step is located in `
 
 ### Additional Documentation
 
-Additional documentation can be found on [docs.nvidia.com](https://nim-docs-staging.s3.us-west-1.amazonaws.com/bionemo-caddvs/main/overview.html).
+You can try this Blueprint and find its Blueprint Card on [build.nvidia.com](https://build.nvidia.com/nvidia/generative-virtual-screening-for-drug-discovery)
 

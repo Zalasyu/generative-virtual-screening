@@ -103,4 +103,4 @@ You can adjust these values once the models are downloaded and cached in the PV.
 
 Before executing the notebook, ensure each pod's web server is actively listening and ready to handle incoming requests. Verify this by checking the [pod log output](#troubleshooting-and-debugging-kubernetes-pods). If you attempt to access a pod before it is fully operational, the port-forwarding command will terminate. In such case, you’ll need to execute `pkill -f "kubectl port-forward"` to stop any existing port-forwarding processes, then reinitiate the port-forwarding command as described [here](#configure-cluster--helm-deployment)
 
-Run the [protein-binder-design.ipynb](../src/protein-binder-design.ipynb) notebook
+Run the [generative-virtual-screening.ipynb](../src/generative-virtual-screening.ipynb) notebook
